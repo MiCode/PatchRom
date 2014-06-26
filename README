@@ -69,7 +69,7 @@ Workflow:
 
      ../tools/releasetools/ota_target_from_phone -r (this will generate a stockrom.zip, flash this zip in recovery mode to ensure it works)
 
-     cp ../honor/makefile .(modify the local-zip-file to stockrom.zip, read the comments in makefile)
+     cp ../xblade/makefile .(modify the local-zip-file to stockrom.zip, read the comments in makefile)
 
      make workspace
 
