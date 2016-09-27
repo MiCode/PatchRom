@@ -73,7 +73,7 @@ Workflow:
 
      make workspace
 
-     make firstpatch (this will add the miui code into framework/android.policy/services.jar, resolve any conflict)
+     make firstpatch (this will add the miui code into framework/services.jar, resolve any conflict)
 
      make fullota
 
