@@ -33,7 +33,7 @@ Then to sync up:
 Build
 --------
 
-Assumed current directory is patchtom and you want to build the ROM for Nexus6P
+Assumed current directory is patchrom and you want to build the ROM for Nexus6P
 
 
      . build/envsetup.sh
